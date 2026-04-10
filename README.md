@@ -50,7 +50,8 @@ Security Groups: Followed the "Principle of Least Privilege" by only opening Por
 Bootstrapping: Automated the entire server setup (Installing Apache, fetching metadata, and creating the HTML landing page) using EC2 User Data scripts.
 
 📸 Proof of Concept
-Above: The webpage showing unique Server IDs and Data Center Zones, proving the Load Balancer is successfully switching between different instances.
+![Webpage Screenshot](./images/webpage_screenshot.png)
+*Above: The webpage showing unique Server IDs and Data Center Zones.*
 
 📂 Project Structure
 scripts/user-data.sh: The Bash script used to automate the server configuration.
