@@ -28,6 +28,7 @@ graph TD
     style ALB fill:#232f3e,color:#fff
     style ASG fill:#ff9900,color:#fff
     style VPC fill:#f9f9f9,stroke:#333
+```
 🛠️ Key Technical Features
 1. Elasticity & Scalability
 Auto Scaling Group (ASG): Configured to maintain a Desired Capacity of 2 instances.
